@@ -8,15 +8,11 @@ body{
 }
 .mb{
 	position: absolute;	
-	
 	background-color: #5B5050;
-	
 	left:10%;
 	height: 100%;
 	width: 80%;
-	
-
-}
+	}
 .sf{
 	position: absolute;
 	left: 10%;
@@ -29,9 +25,7 @@ body{
 	position: relative;
 	top: 25px;
 	font-family: centrury gotic;
-	color: black;
-
-}
+	}
 .js{
 	position: absolute;
 	background-color: white;
@@ -79,21 +73,27 @@ position: absolute;
 }
 .xd{
 	width: 250px;
+	height: 20%;
 	margin: 20px auto;
 	background: black;
 		border-radius:20px;
 		color: white;
-
+}
+.xd1{
+	width: 250px;
+	height: 30%;
+	margin: 20px auto;
+	background: black;
+		border-radius:20px;
+		color: white;
 }
 .navegacion{
-
 	width: 180px;
-	margin: 100px auto;
+	margin: 60px auto;
 	background: black;
 }
 .navegacion ul{
 	list-style: none;
-
 }
 .menu > li{
 	position: relative;
