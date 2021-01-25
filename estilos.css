@@ -87,7 +87,7 @@ position: absolute;
 }
 .navegacion{
 
-	width: 200px;
+	width: 180px;
 	margin: 100px auto;
 	background: black;
 }
@@ -114,7 +114,7 @@ position: absolute;
 .submenu{
 	position: absolute;
 	background: black;
-	width: 125%;
+	width: 124%;
 visibility: hidden;
 opacity: 0;
 transition: opacity 1.5s;
@@ -130,4 +130,12 @@ transition: opacity 1.5s;
 .menu li:hover .submenu{
 visibility: visible;
 opacity: 1;
+}
+.so{
+	position: absolute;
+	left: 70%;
+	top: 10%;
+	height:30%;
+	width: 20%;
+	border-radius:100%;
 }
