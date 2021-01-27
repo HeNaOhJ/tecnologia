@@ -69,10 +69,11 @@ body{
 	font-family: 'stencil';
 }
 .navegacion{
-	position: relative;
-	left: 2%;
+	position: absolute;
+	top: 20%;
+	left: 38%;
 	width: 30%;
-	margin: 140px auto;
+	margin: 10px auto;
 }
 .navegacion ul{
 	list-style: none;
