@@ -8,7 +8,7 @@ body{
 }
 .mb{
 	position: absolute;	
-	background-color: #DDDDDD;
+	background-color: #e7e7de;
 	left:10%;
 	height: 120%;
 	width: 80%;
@@ -31,14 +31,19 @@ body{
 	top: 10px;
 	left: 5%;
 	margin: 10px auto;
-	background: #30475E;
+	background: #0f3057;
 		border-radius:10px;
 		color: white;
 	font-family: 'stencil';
 	text-decoration: none;
 		padding: 5px;
+		border:solid #00587a 4px; 
+	display:all;
 }
-
+.js:hover{
+	border:solid #16c79a 4px; 
+	display:all;
+}
 .vy{
 	position: absolute;
 	background-color: ;
@@ -49,31 +54,38 @@ body{
 	text-decoration-color: white;
 }
 .xd{
-	width: 250px;
-	height: 30%;
-	margin: 10px auto;
-	background: #30475E;
+	position: absolute;
+	top: 2%;
+	left:35% ;
+	width: 24%;
+	height: 5%;
+	background: #0f3057;
 		border-radius:10px;
 		color: white;
 	font-family: 'stencil';
 	padding: 5px;
+	border:solid #008891 4px; 
+	display:all;
 }
 .xd1{
 	position: absolute;
 	width: 20%;
-	height: 20%;
+	height: 16%;
 	top: 28%;
 	left: 40%;
 		border-radius:20px;
-		color: #30475E;
+		color: #0f3057;
 	font-family: 'stencil';
+	border:solid blue 2px; 
+	display:all;
 }
 .navegacion{
 	position: absolute;
-	top: 20%;
-	left: 38%;
-	width: 30%;
-	margin: 10px auto;
+	top: 23%;
+	left: 40%;
+	width: 22%;
+	height: 4%;
+	border-radius: 20%;
 }
 .navegacion ul{
 	list-style: none;
@@ -85,8 +97,8 @@ body{
 
 .menu > li > a{
 	display: block;
-	padding: 15px 20px;
-	color: #30475E;
+	padding: 4% 15%;
+	color: #0f3057;
 	font-family: stencil;
 	text-decoration: none;
 	text-anchor:10px;
@@ -105,7 +117,7 @@ transition: opacity 1.5s;
 .submenu li a{
 	display: block;
 	padding: 6px;
-	color: #30475E;
+	color: #0f3057;
 	font-family: stencil;
 	text-decoration: none;
 }
@@ -122,28 +134,28 @@ opacity: 1;
 }
 .fl{
 	position: absolute;
-	left: 27%;
-	top: 10%;
-	height: 200px;
-	width: 200px;
+	left: 32%;
+	top: 12%;
+	height:62%;
+	width:40%
 }
 .au{
 	position: absolute;
-	left: 77%;
+	left: 71%;
 	top: 52%;
-	height: 40%;
+	height: 70%;
 	width: 50%;
 }
 .ae{
 	position: absolute;
 	right: 55%;
-	top: 57%;
-	height: 40%;
+	top: 54%;
+	height: 70%;
 	width: 40%;
 }
 .jl{
 	position: absolute;	
-	background-color: #f05454;
+	background-color: #008891;
 	top: 10%;
 	left:3%;
 	height:75%;
@@ -165,32 +177,50 @@ opacity: 1;
 position: absolute;
 	top: 10px;
 	left: 70%;
-	background: #30475E;
+	background: #0f3057;
 	border-radius:10px;
 	color: white;
 	font-family: 'stencil';
 	text-decoration: none;
 		padding: 5px;
+		border:solid #00587a 4px; 
+	display:all;
+}
+.vl:hover{
+	border:solid #16c79a 4px; 
+	display:all;
 }
 .an{
 position: absolute;
 	top: 10px;
-		left: 75%;
-	background: #30475E;
+		left: 76%;
+	background: #0f3057;
 	border-radius:10px;
 	color: white;
 	font-family: 'stencil';
 	text-decoration: none;
 		padding: 5px;
+		border:solid #00587a 4px; 
+	display:all;
+}
+.an:hover{
+	border:solid #16c79a 4px; 
+	display:all;
 }
 .et{
 	position: absolute;
 	top: 10px;
-	left: 80%;
-	background: #30475E;
+	left: 82%;
+	background: #0f3057;
 	border-radius:10px;
 	color: white;
 	font-family: 'stencil';
 	text-decoration: none;
 	padding: 5px;
+	border:solid #00587a 4px; 
+	display:all;
+}
+.et:hover{
+	border:solid #16c79a 4px; 
+	display:all;
 }
