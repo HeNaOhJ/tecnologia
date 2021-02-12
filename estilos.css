@@ -225,3 +225,28 @@ position: absolute;
 	border:solid #16c79a 4px; 
 	display:all;
 }
+.jm{
+	background-color:black;
+	position: absolute;
+	padding: 1%;
+	width: 14%;
+	height:13%; 
+	left: 10%;
+	top: 10%;
+	border-radius: 20%;
+	color: white;
+
+}
+a{
+	font-family: 'stencil';
+	text-decoration: none;
+}
+.jx{
+	position: absolute;	
+	background-color: #0f3057;
+	top: 10%;
+	left:3%;
+	height:75%;
+	width: 95%;
+	border-radius: 15%;
+}
