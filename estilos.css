@@ -42,9 +42,9 @@ a{
 	}
 .js{
 	position: absolute;
-	top: 10px;
+	top: 2%;
 	left: 10%;
-	height: 55%;
+	height: 5%;
 	background: #0f3057;
 	border-radius:10px;
 	color: white;
@@ -60,7 +60,7 @@ a{
 }
 .jq{
 	height: 10%;
-	width: 99%;
+	width: 99.3%;
 	position: absolute;
 	background: #0f3057;
 		color: white;
@@ -78,7 +78,7 @@ a{
 }
 .xd{
 	position: absolute;
-	top: 2%;
+	top: 5%;
 	left:37.5% ;
 	width: 24%;
 	height: 5%;
@@ -102,71 +102,61 @@ a{
 	border:solid blue 2px; 
 	display:all;
 }
-.navegacion{
-	position: absolute;
-	top: 19%;
-	left: 37%;
-	width: 26%;
-	height: 10%;
-}
-.navegacion ul{
-	list-style: none;
-}
-.menu > li{
-	position: relative;
-	display: inline-block;
-
-}
-
-.menu > li > a{
-	display: block;
-	color: #0f3057;
-	font-family: stencil;
-	text-decoration: none;
-}
-.menu li a:hover{
-	color: black;
-	transition: all .2s;
-}
-.submenu{
-	position: absolute;
-	top: 60%;
-	left: 1%;
-	width: 100%;
-	height: 190%;
-visibility: hidden;
-opacity: 0;
-transition: opacity 1.5s;
-}
-.submenu li a{
-	color: #0f3057;
-	font-family: stencil;
-	text-decoration: none;
-}
-
 .a1{
 position: absolute;
-top: 0%;
-left: 25%;
+top: 30%;
+left: 40%;
+height: 6%;
+width: 9.5%;
+color: #0f3057;
+border-radius:12px;
+}
+.a1:hover{
+	color: #16c79a;
+	background-color: black;
+	border:solid #16c79a 2px; 
 }
 .a2{
 position: absolute;
-top: 27%;
-left: 25%;
+top: 30%;
+left: 50%;
+height: 6%;
+width: 9.5%;
+color: #0f3057;
+border-radius:12px;
+}
+.a2:hover{
+	color: #16c79a;
+	background-color: black;
+	border:solid #16c79a 2px; 
 }
 .a3{
-	position: absolute;
-top: 56%;
-left: 25%;
+position: absolute;
+top: 37%;
+left: 40%;
+height: 6%;
+width: 9.5%;
+color: #0f3057;
+border-radius:12px;
+}
+.a3:hover{
+	color: #16c79a;
+	background-color: black;
+	border:solid #16c79a 2px; 
 }
 .a4{
-	position: absolute;
-top: 78%;
-left: 25%;
+position: absolute;
+top: 37%;
+left:50%;
+height: 6%;
+width: 9.5%;
+color: #0f3057;
+border-radius:12px;
 }
-.menu li:hover .submenu{
-visibility: visible;
-opacity: 1;
+.a4:hover{
+	color: #16c79a;
+	background-color: black;
+	border:solid #16c79a 2px; 
 }
 .so{
 	position: absolute;
@@ -218,9 +208,9 @@ opacity: 1;
 }
 .vl{
 position: absolute;
-	top: 10px;
+	top: 2%;
 	left: 70%;
-	height: 55%;
+	height: 5%;
 	background: #0f3057;
 	border-radius:10px;
 	color: white;
@@ -236,9 +226,9 @@ position: absolute;
 }
 .an{
 position: absolute;
-	top: 10px;
+	top: 2%;
 		left: 76%;
-	height: 55%;
+	height: 5%;
 	background: #0f3057;
 	border-radius:10px;
 	color: white;
@@ -254,9 +244,9 @@ position: absolute;
 }
 .et{
 	position: absolute;
-	top: 10px;
+	top: 2%;
 	left: 82%;
-	height: 55%;
+	height: 5%;
 	background: #0f3057;
 	border-radius:10px;
 	color: white;
@@ -305,6 +295,50 @@ position: absolute;
 	display:all;
 }
 .jw:hover{
+	border:solid #16c79a 4px; 
+	display:all;
+}
+.periodo{
+position: absolute;	
+	top: 21%;
+	left:43%;
+	height:4%;
+	width: 15%;
+	border-radius: 10px;
+	color: #0f3057;
+}
+.periodo:hover{
+	color: #16c79a;
+	background-color: black;
+	border:solid #16c79a 2px; 
+}
+.inicio{
+position: absolute;	
+	top: 21%;
+	left:43%;
+	height:%;
+	width: 15%;
+	border-radius: 10px;
+	color: #0f3057;
+}
+.inicio:hover{
+	color: #16c79a;
+	background-color: black;
+	border:solid #16c79a 2px; 
+}
+.jt{
+	position: absolute;	
+	background-color: #222831;
+	top: 10%;
+	left:55%;
+	height:15%;
+	width: 15%;
+	border-radius: 15px;
+	color: white;
+	border:solid #00587a 4px; 
+	display:all;
+}
+.jt:hover{
 	border:solid #16c79a 4px; 
 	display:all;
 }
