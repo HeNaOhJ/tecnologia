@@ -271,6 +271,7 @@ position: absolute;
 }
 .jm:hover{
 	border:solid #16c79a 4px; 
+	color: #16c79a;
 }
 
 .jx{
@@ -286,17 +287,17 @@ position: absolute;
 	position: absolute;	
 	background-color: black;
 	top: 10%;
-	left:35%;
+	left:40%;
 	height:15%;
-	width: 15%;
+	width: 18%; 
 	border-radius: 15px;
 	color: white;
 	border:solid #00587a 4px; 
 	display:all;
 }
 .jw:hover{
-	border:solid #16c79a 4px; 
-	display:all;
+	border:solid #16c79a 4px;
+	color: #16c79a;
 }
 .periodo{
 position: absolute;	
@@ -330,9 +331,9 @@ position: absolute;
 	position: absolute;	
 	background-color: #222831;
 	top: 10%;
-	left:55%;
+	left:70%;
 	height:15%;
-	width: 15%;
+	width: 18%; 
 	border-radius: 15px;
 	color: white;
 	border:solid #00587a 4px; 
@@ -341,4 +342,19 @@ position: absolute;
 .jt:hover{
 	border:solid #16c79a 4px; 
 	display:all;
+	color: #16c79a;
+}
+.j1{
+	position: absolute;	
+	background-color: black;
+	top: 35%;
+	left:35%;
+	height:25%;
+	width: 30%;
+	border-radius: 15px;
+	color: white;
+	border:solid #00587a 4px; 
+}
+.j1:hover{
+	border:solid #16c79a 4px; 
 }
